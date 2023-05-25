@@ -26,4 +26,4 @@ Certifique-se de ter o SDK do Cloud instalado em sua máquina local. Você pode 
   
 -gcloud run deploy <service-name> --image gcr.io/<project-id>/<image-name> --platform managed --port 80
 
-para interromper o projeto, deletar ele no painel do cloud run
+para interromper o projeto, deletar ele no painel do console do google 
