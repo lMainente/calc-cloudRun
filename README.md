@@ -1,5 +1,5 @@
 # calc-cloudRun
-Projeto em php para teste de imagem em docker e deploy no cloud server
+Projeto em php para teste de imagem em docker e deploy no cloud run da google
 
 
 ## geração imagem docker --
